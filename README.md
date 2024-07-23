@@ -1,4 +1,5 @@
 # Projeto de Integração e Análise de Dados via APIs
+[Google Doc - Especificação Projeto](https://docs.google.com/document/d/1Fu7r5mdrJviT-hscJGceymrAurbUMXmrRVvXWJY-gAM/edit?usp=sharing)
 
 ## Passos do Projeto
 ### 1. Identificação da API:

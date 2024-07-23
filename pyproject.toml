@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "pdi-rickandmortyapi"
+version = "0.1.0"
+description = ""
+authors = ["taniomi <131834608+taniomi@users.noreply.github.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+requests = "^2.32.3"
+pandas = "^2.2.2"
+sqlalchemy = "^2.0.31"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
